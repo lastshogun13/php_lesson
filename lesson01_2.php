@@ -6,7 +6,10 @@
 <body>
 
 <?php
-	print 'Hello Word';
+	$year = 2017;
+	$name = 'keisuke';
+	print "Hello $name <br>";
+	print "This year is $year<br>";
 ?>
 
 </body>
