@@ -1,0 +1,37 @@
+HTMLヘッダだけ事前用意
+
+
+・lesson02_form.php説明ポイント
+http://localhost/php_lesson/lesson02_form.php
+
+単なるHTMLで、<?php ?>がない。
+FROMを作っている
+
+以下の3つの命令を説明
+<form action="lesson02_receive.php" method="POST">
+
+<input type="text" name="id" value="">
+
+<input type="submit" value="login">
+
+
+・lesson02_receive.php説明ポイント
+http://localhost/php_lesson/lesson02_receive.php
+
+$_POST["id"];
+特殊変数についての説明
+GETについても説明しておく
+
+	if($id == "minami" && $pw == "keisuke"){
+		print("login complete.");
+	} else {
+		print("login failed.");
+	}
+ログイン成功と失敗の表示
+
+ID,PWを自分の名前、名字にさせてみる
+タイ語もOK
+
+ログイン時の表示も、タイ語に変えてみる
+
+

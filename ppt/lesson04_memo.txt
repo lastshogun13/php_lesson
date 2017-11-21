@@ -1,0 +1,11 @@
+・lesson04_form.php説明ポイント
+http://localhost/php_lesson/lesson04_form.php
+
+
+・lesson04_receive.php説明ポイント
+http://localhost/php_lesson/lesson04_receive.php
+
+<?php ?>は複数かける点
+変数表示したいだけなら、<?php print $id; ?> という書き方
+
+

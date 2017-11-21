@@ -1,0 +1,41 @@
+・インストールについて
+実際にやってみる
+パスワードは「12345678」にさせる。
+
+・エディタにはDreamweaverを使ってみる
+
+
+・lesson01_1説明ポイント
+http://localhost/php_lesson/lesson01_1.php
+
+HTMLであるということ
+<?php ?>
+print文
+文字列
+文字列を変えたら
+
+・lesson01_2説明ポイント
+http://localhost/php_lesson/lesson01_2.php
+
+変数は $ をつける
+数字、文字列などを使える
+文字列展開は"の中に入れる
+' だとそのまま表示になる
+
+・lesson01_3説明ポイント
+http://localhost/php_lesson/lesson01_3.php
+
+数字の足し算
+文字列の連結
+自動的に、数字、文字列の変換
+例えば、15を"15"に変更したら何が起きるか
+
+・lesson01_4説明ポイント
+http://localhost/php_lesson/lesson01_4.php
+
+L9: command rand ランダム変数の説明
+L11: command if
+L13: command else if
+L15: command else
+
+
