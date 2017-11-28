@@ -5,9 +5,8 @@
 </head>
 <body>
 
-<?php
-	print 'Hello けいすけ เคสุเก';
-?>
 
 </body>
 </html>
+
+
