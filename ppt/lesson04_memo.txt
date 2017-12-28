@@ -1,3 +1,8 @@
+・lesson04_table.php説明ポイント
+http://localhost/php_lesson/lesson04_table.php
+
+ style="border:solid 1px #ff00ff; border-collapse: collapse;"
+
 ・lesson04_form.php説明ポイント
 http://localhost/php_lesson/lesson04_form.php
 
@@ -5,7 +10,8 @@ http://localhost/php_lesson/lesson04_form.php
 ・lesson04_receive.php説明ポイント
 http://localhost/php_lesson/lesson04_receive.php
 
-<?php ?>は複数かける点
-変数表示したいだけなら、<?php print $id; ?> という書き方
+for文について
+tableタグについて
+
 
 

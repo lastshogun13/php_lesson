@@ -5,11 +5,8 @@
 </head>
 <body>
 
-<?php
-
-?>
+<form action="lesson04_receive.php" method="POST">
+</form>
 
 </body>
 </html>
-
-

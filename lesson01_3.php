@@ -7,8 +7,8 @@
 
 <?php
 	$int_a = 10;
-	$int_b = "15";
-	$str = 'a';
+	$int_b = 15;
+	$str = '30';
 
 	print $int_a + $int_b;
 	print "<br>";

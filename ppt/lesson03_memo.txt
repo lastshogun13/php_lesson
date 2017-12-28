@@ -1,11 +1,17 @@
-・lesson03_form.php説明ポイント
-http://localhost/php_lesson/lesson03_form.php
+・lesson05_form.php説明ポイント
+http://localhost/php_lesson/lesson05_form.php
+
+input type="password"
+textarea
+input type="checkbox"
+input type="radio"
+select
 
 
-・lesson03_receive.php説明ポイント
-http://localhost/php_lesson/lesson03_receive.php
+・lesson05_receive.php説明ポイント
+http://localhost/php_lesson/lesson05_receive.php
 
-<?php ?>は複数かける点
-変数表示したいだけなら、<?php print $id; ?> という書き方
+上記のフォームの受取データについて
+
 
 
