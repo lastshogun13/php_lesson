@@ -6,7 +6,7 @@
 <body>
 
 <?php
-	print 'Hello けいすけ เคสุเก';
+	print 'Hello Keisuke เคสุเกะ';
 ?>
 
 </body>
